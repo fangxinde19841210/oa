@@ -15,5 +15,4 @@ git server#######
 fangxinde111 bug
 licifang222
 licifang333
-fang123456789
-fangchao123789
+fangxinde2018-7-23
