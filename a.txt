@@ -7,6 +7,7 @@
 dev update
 test delete.....
 dev update002
+fangxinde and licifang today ce shi java
 hello github server
 p2 hello github from 1226
 p3 hello github fom 1226
@@ -15,8 +16,7 @@ git server#######
 fangxinde111 bug
 licifang222
 licifang333
-fangchao2018-7-24
-fangxinde2018-7-23
+
 
 fangzhaolijinrong how to tuoli ku hai 
 
